@@ -24,3 +24,4 @@ export function RenderBuilderContent({ content, model }: BuilderPageProps) {
   // DefaultErrorPage with a 404.
   return <DefaultErrorPage statusCode={404} />;
 }
+
